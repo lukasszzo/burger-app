@@ -17,3 +17,9 @@
   height:100%;
   color:white;
 }
+
+@media(max-width:499px){
+  .DesktopOnly{
+    display: none;
+  }
+}
